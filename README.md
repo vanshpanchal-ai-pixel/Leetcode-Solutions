@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/vanshpanchal-ai-pixel/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vanshpanchal-ai-pixel/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vanshpanchal-ai-pixel/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0283-move-zeroes](https://github.com/vanshpanchal-ai-pixel/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 ## Hash Table
 |  |
 | ------- |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/vanshpanchal-ai-pixel/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vanshpanchal-ai-pixel/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0283-move-zeroes](https://github.com/vanshpanchal-ai-pixel/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 ## String
 |  |
 | ------- |
