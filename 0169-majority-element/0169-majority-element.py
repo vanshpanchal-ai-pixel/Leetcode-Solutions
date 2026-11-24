@@ -5,12 +5,18 @@ class Solution(object):
         :rtype: int
         """
 
-        freq = {}
-        for num in nums:
-            freq[num] = freq.get(num, 0) + 1
-        
-        threshold = len(nums) // 2
+        candidate = None
+        count = 0
 
-        for key, value in freq.items():
-            if value > threshold:
-                return key
+        for num in nums:
+            if count == 0:
+                candidate = num
+                count += 1
+            
+            elif num == candidate:
+                count += 1
+            
+            else :
+                count -= 1
+
+        return candidate
