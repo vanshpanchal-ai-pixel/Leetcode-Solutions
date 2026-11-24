@@ -11,11 +11,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vanshpanchal-ai-pixel/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/vanshpanchal-ai-pixel/Leetcode-Solutions/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vanshpanchal-ai-pixel/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/vanshpanchal-ai-pixel/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/vanshpanchal-ai-pixel/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/vanshpanchal-ai-pixel/Leetcode-Solutions/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/vanshpanchal-ai-pixel/Leetcode-Solutions/tree/master/0169-majority-element) |
 ## Math
 |  |
 | ------- |
@@ -43,4 +45,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/vanshpanchal-ai-pixel/Leetcode-Solutions/tree/master/0136-single-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/vanshpanchal-ai-pixel/Leetcode-Solutions/tree/master/0169-majority-element) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/vanshpanchal-ai-pixel/Leetcode-Solutions/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/vanshpanchal-ai-pixel/Leetcode-Solutions/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/vanshpanchal-ai-pixel/Leetcode-Solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
