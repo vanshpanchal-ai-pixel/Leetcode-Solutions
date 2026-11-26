@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/vanshpanchal-ai-pixel/Leetcode-Solutions/tree/master/0009-palindrome-number) |
+| [3360-stone-removal-game](https://github.com/vanshpanchal-ai-pixel/Leetcode-Solutions/tree/master/3360-stone-removal-game) |
 ## Two Pointers
 |  |
 | ------- |
@@ -64,4 +65,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/vanshpanchal-ai-pixel/Leetcode-Solutions/tree/master/0169-majority-element) |
+## Simulation
+|  |
+| ------- |
+| [3360-stone-removal-game](https://github.com/vanshpanchal-ai-pixel/Leetcode-Solutions/tree/master/3360-stone-removal-game) |
 <!---LeetCode Topics End-->
